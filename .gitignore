@@ -3,5 +3,6 @@ venv/
 .idea/
 __pycache__/
 source/sass/.sass-cache/
+.sass-cache/
 *lock.*
 tfperu-settings.yaml
