@@ -4,4 +4,4 @@ venv/
 __pycache__/
 source/sass/.sass-cache/
 *lock.*
-*.yaml
+tfperu-settings.yaml

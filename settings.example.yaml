@@ -1,0 +1,7 @@
+AWS_ACCESS_KEY_ID: <AWS Access Key>
+AWS_ACCESS_KEY_SECRET: <AWS Secret>
+BUCKET_NAME: <Bucket name>
+BUCKET_LOCATION: <Boto Location.instance>
+CTX:
+  analytics: <Google analytics UA-XXXX-1 code>
+  title: <HTML Title tag>
