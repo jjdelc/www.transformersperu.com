@@ -1,0 +1,56 @@
+{% extends "_base.html" %}
+
+{% block body %}
+<header id="main-header">
+<h1>{{ title }}</h1>
+<nav>
+<ol id="top-nav">
+<li><a href="#home"><span>Inicio</span></a></li>
+<li><a href="#contact"><span>Contacto</span></a></li>
+</ol>
+</nav>
+</header>
+
+<div>
+    <section class="section" id="home">
+    <div class="body">
+        <div class="content">
+            {{pages.landing|safe}}
+        </div>
+    </div>
+    </section>
+    <section class="section" id="contact">
+    <div class="body">
+        <header>
+            <h1>Reach me here</h1>
+        </header>
+        <div class="content">
+            {{pages.contact}}
+        </div>
+    </div>
+    </section>
+</div>
+<a id="go-to-top" href="#main-header"></a>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-compat/3.0.0-alpha1/jquery.min.js"></script>
+<script src="pilcrows.js"></script>
+<script src="tabbit.js"></script>
+<script>
+(function(){
+    MakePilcrows.init('.content');
+    Tabbit.init('#top-nav', '.section');
+    $('#go-to-top').on('click', function(){
+        $('html,body').animate({scrollTop: 0}, 500);
+    })
+})();
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '{{ analytics }}', 'auto');
+  ga('send', 'pageview');
+
+</script>
+{% endblock %}

@@ -1,0 +1,11 @@
+Jinja2==2.8
+MarkupSafe==0.23
+PyYAML==3.11
+argh==0.26.2
+docopt==0.6.2
+easywatch==0.0.3
+pathtools==0.1.2
+staticjinja==0.3.3
+watchdog==0.8.3
+Markdown==2.6.8
+boto==2.47.0

@@ -1,0 +1,7 @@
+*.swp
+venv/
+.idea/
+__pycache__/
+source/sass/.sass-cache/
+*lock.*
+*.yaml
