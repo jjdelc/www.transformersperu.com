@@ -47,6 +47,8 @@ body {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  border-radius: 0.5rem;
+  border: 1px solid rgba(0,0,0,0.5);
   .fb-logo {
     flex: 0 0 auto;
     width: 100px;
