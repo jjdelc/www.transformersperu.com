@@ -1,7 +1,15 @@
-Zoë Kohen Ley is a cellist whose playing style blends classical training with experience in and passion for work in a wide variety of genres and settings, multi-media collaboration, and improvisation.  She has been performing regularly on acoustic and electric cello in the United States and abroad for over ten years, in orchestras, chamber ensembles, stage shows, and musicals, as well as with bands, comedy groups, and anyone she could find doing genuinely interesting artistic work.
+Sómos el grupo oficial de fanáticos de Transformers en el Perú. Reconocidos por Hasbro.
 
-<p class="cello-break"></p>
+# Objetivos
 
-After attending the Oberlin Conservatory of Music for a degree in cello performance, Zoë has had the privilege of playing with many wonderful musicians and ensembles in concerts and shows all over the United States and abroad, including the Las Vegas Philharmonic and Nevada Chamber Symphony,  Andrea Bocelli, Trans-Siberian Orchestra, Mannheim Steamroller, Wayne Newton, Rod Stewart, and many more. 
+* Buscamos promover un espacio donde los fanáticos de Transformers podamos reunirnos
+a intercambiar, aprender y disfrutar de la franquicia.
+* Ofrecemos un lugar de compra/venta de figuras de colección en nuestro grupo de Facebook.
+* Apoyamos a eventos de Hasbro promoviendo la marca, las películas u otros eventos que estemos invitados
 
-Throughout her career as a performer, Zoë has remained dedicated to  the education of students with passion for music.  As music transformed her life, she feels an intense responsibility to provide that same opportunity for transformation, growth, and joy to students of all ages and ability levels.  As a recent transplant to Seattle, Zoë is accepting new students to work with and join her new studio, Sympatico Cello Studio, which she formed with fellow Oberlin-trained cellist Mary Riles.  Please see the Teaching Philosophy Page for more on her approach to private instruction, as well as the Studio Policies and Fees page for more information on working with Zoë to find you or your child's best and most authentic artistic self.
+
+# ¿Qué hacen en los eventos?
+
+* Contamos con algunos disfraces de los personajes que llevamos a algunos eventos.
+* También instalamos una mesa de ventas con varias figuras y souvenirs para los asistentes.
+* Informamos, conversamos y aclaramos dudas que la gente tenga sobre cualquier tema relacionado a Transformers.

@@ -1,1 +1,1 @@
-Contáctanos
+La mejor forma de contactarnos es por medio de nuestro grupo de Facebook

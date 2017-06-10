@@ -2,22 +2,40 @@
 
 {% block body %}
 <header id="main-header">
-<h1>{{ title }}</h1>
-<nav>
-<ol id="top-nav">
-<li><a href="#home"><span>Inicio</span></a></li>
-<li><a href="#contact"><span>Contacto</span></a></li>
-</ol>
-</nav>
+<img src="http://placehold.it/300x300"/>
+<h1>Transformers Perú</h1>
+<h3>Página oficial</h3>
 </header>
-
-<div>
+<div class="main-body">
+    <section class="section" id="reach-us">
+        <a href="#" class="logo-btn">
+            <img src="http://placehold.it/150x150" class="fb-logo"/>
+            <div>
+                <p>Encuéntranos en Facebook</p>
+                <p>"Asociación Cultural Transformers Perú"</p>
+                <p><img src="http://placehold.it/20x20"/>/tfperu</p>
+            </div>
+        </a>
+    </section>
     <section class="section" id="home">
     <div class="body">
+        <header>
+            <h1>¿Quiénes somos?</h1>
+        </header>
         <div class="content">
-            {{pages.landing|safe}}
+            {{pages.home|safe}}
         </div>
     </div>
+    </section>
+    <section class="section">
+        <div class="body">
+            <header>
+                <h1>Foto del més</h1>
+            </header>
+            <div class="content">
+            {{pages.pic_of_the_month|safe}}
+            </div>
+        </div>
     </section>
     <section class="section" id="contact">
     <div class="body">
@@ -25,7 +43,7 @@
             <h1>Contáctanos</h1>
         </header>
         <div class="content">
-            {{pages.contact}}
+            {{pages.contact|safe}}
         </div>
     </div>
     </section>
