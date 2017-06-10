@@ -32,12 +32,8 @@
 </div>
 <a id="go-to-top" href="#main-header"></a>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-compat/3.0.0-alpha1/jquery.min.js"></script>
-<script src="pilcrows.js"></script>
-<script src="tabbit.js"></script>
 <script>
 (function(){
-    MakePilcrows.init('.content');
-    Tabbit.init('#top-nav', '.section');
     $('#go-to-top').on('click', function(){
         $('html,body').animate({scrollTop: 0}, 500);
     })
