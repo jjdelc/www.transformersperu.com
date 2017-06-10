@@ -31,7 +31,7 @@ BUCKET_LOCATION = getattr(boto.s3.connection.Location, settings['BUCKET_LOCATION
 bucket_name = settings['BUCKET_NAME']
 
 # source directory
-sourceDir = os.path.join(os.getcwd(), 'build/')
+sourceDir = os.path.join(os.getcwd(), 'built/')
 # destination directory name (on s3)
 destDir = ''
 # max size in bytes before uploading in parts. between 1 and 5 GB recommended
