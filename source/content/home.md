@@ -1,16 +1,2 @@
 Sómos el grupo oficial de fanáticos de Transformers en el Perú. Reconocidos por 
 Hasbro Internacional.
-
-# Objetivos
-
-* Buscamos promover un espacio donde los fanáticos de Transformers podamos reunirnos
-a intercambiar, aprender y disfrutar de la franquicia.
-* Ofrecemos un lugar de compra/venta de figuras de colección en nuestro grupo de Facebook.
-* Apoyamos a eventos de Hasbro promoviendo la marca, las películas u otros eventos que estemos invitados
-
-
-# ¿Qué hacen en los eventos?
-
-* Contamos con algunos disfraces de los personajes que llevamos a algunos eventos.
-* También instalamos una mesa de ventas con varias figuras y souvenirs para los asistentes.
-* Informamos, conversamos y aclaramos dudas que la gente tenga sobre cualquier tema relacionado a Transformers.

@@ -27,6 +27,9 @@ def build_context(content_dir):
     pages = [
         'home',
         'contact',
+        'objectives',
+        'sales',
+        'community',
         'pic_of_the_month',
     ]
     ctx = {

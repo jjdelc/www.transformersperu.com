@@ -117,8 +117,6 @@ body {
   background: $facebookBlue;
   text-decoration: none;
   overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
   border-radius: 0.5rem;
   border: 2px solid rgba(0,0,0,0.25);
 
@@ -127,11 +125,22 @@ body {
     width: 100px;
     height: 100px;
   }
+  &.secondary {
+    max-width: 30rem;
+    .fb-logo {
+      width: 50px;
+      height: 50px;
+    }
+  }
   div {
     flex: 1 0 auto;
-    font-size: 0.8rem;
+    font-size: 1rem;
     text-align: left;
     padding: 0.25rem 0.5rem;
+  }
+  strong {
+    font-weight: bold;
+    font-size: 1.1rem;
   }
   p {
     margin: 0;
