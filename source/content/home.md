@@ -1,4 +1,5 @@
-Sómos el grupo oficial de fanáticos de Transformers en el Perú. Reconocidos por Hasbro.
+Sómos el grupo oficial de fanáticos de Transformers en el Perú. Reconocidos por 
+Hasbro Internacional.
 
 # Objetivos
 

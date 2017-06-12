@@ -1,7 +1,7 @@
-La foto del més enviada por nuestros fanáticos:
+La foto del més enviada por nuestros miembros de la comunidad:
 
 
 <figure>
-<img src="http://placehold.it/800x600"/>
+<img src="./media/month.jpg"/>
 <figcaption>Gracias Cerapio Torres</figcaption>
 </figure>

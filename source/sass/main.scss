@@ -3,13 +3,90 @@ $facebookBlue: #3b5998;
 
 body {
   margin: 0;
-  background: $bgcolor;
-  font-family: Arial, sans-serif;
+  background: $bgcolor url(../media/tf-bg.png) repeat-x top left;
+  font-family: 'Exo', sans-serif;
   font-weight: 200;
   color: #EEE;
 }
 #main-header {
   text-align: center;
+  padding-top: 1rem;
+  h1 {
+    margin-bottom: 1.5rem;
+  }
+  @media (min-width: 35rem) {
+    display: flex;
+    max-width: 50rem;
+    margin: 0 auto;
+
+    section {
+      flex: 1 1 auto;
+      h1 {
+        font-size: 3.5rem;
+      }
+      h3 {
+        text-align: right;
+      }
+    }
+    .main-logo {
+      flex: 0 0 auto;
+      width: 25%;
+      height: auto;
+    }
+  }
+  @media (max-width: 35rem) {
+    h1 {
+      font-size: 2.5rem;
+    }
+  }
+}
+.main-logo {
+  max-width: 80%;
+  height: auto;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+
+#pic-of-the-month {
+  figure {
+    margin: 0;
+    padding: 0;
+    img {
+      border: 2px solid white;
+      max-width: 100%;
+      height: auto;
+    }
+    figcaption {
+      font-style: italic;
+      font-size: 0.8rem;
+      text-align: right;
+    }
+  }
+}
+
+#reach-us {
+  text-align: center;
+  iframe {
+    border: 0;
+    width: 100%;
+    max-width: 500px; // Matches plugin width
+    margin: 0 auto;
+  }
+}
+
+#main-footer {
+  h1 {
+    font-size: 4rem;
+    text-align: center;
+    font-style: italic;
+  }
 }
 
 .main-body {
@@ -20,8 +97,6 @@ body {
   line-height: 1.8rem;
 }
 .section {
-  .body {
-  }
   .content {
     margin: 0 auto;
     text-align: justify;
@@ -30,11 +105,6 @@ body {
     text-align: center;
     font-size: 2rem;
   }
-
-  img {
-    max-width: 100%;
-    height: auto;
-  }
   a {
     color: white;
   }
@@ -42,13 +112,16 @@ body {
 
 .logo-btn {
   display: flex;
+  max-width: 40rem;
+  margin: 0 auto;
   background: $facebookBlue;
   text-decoration: none;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
   border-radius: 0.5rem;
-  border: 1px solid rgba(0,0,0,0.5);
+  border: 2px solid rgba(0,0,0,0.25);
+
   .fb-logo {
     flex: 0 0 auto;
     width: 100px;
@@ -64,37 +137,3 @@ body {
     margin: 0;
   }
 }
-
-#reach-us {
-  text-align: center;
-}
-
-#go-to-top {
-  position: fixed;;
-  display: block;
-  background: rgba(0,0,0,0.6);
-  color: white;
-  border: 1px solid white;
-  font-size: 1.5rem;
-  font-weight: bold;
-  line-height: 50px;
-  width: 50px;
-  border-radius: 50%;
-  text-decoration: none;
-  text-align: center;
-  bottom: 1rem;
-  right: 1rem;
-  opacity: 0.5;
-}
-#go-to-top:after {
-  display: inline-block;
-  height: 100%;
-  content: '▲';
-}
-.anchor-pilcrow {
-  visibility: hidden;
-  position: relative;
-  top: -5rem;
-  font-size: 0;
-}
-
