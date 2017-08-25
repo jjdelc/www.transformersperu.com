@@ -17,3 +17,11 @@
     No contamos con oficinas ni ubicación, todas las conversaciones son en el 
     [grupo de la comunidad de Transformers Perú](https://www.facebook.com/groups/tfperuoficial/). 
     Cuando tengamos reuniones presenciales, serán anunciadas ahí.
+    
+* ¿Dónde consigo más información?
+
+    Puedes dejar un mensaje en [nuestra página de Facebook](https://www.facebook.com/groups/tfperuoficial/).
+    
+* ¿Cómo puedo formar parte de la comúnidad?
+
+    Tan sólo basta con unirte al [grupo de comunidad en Facebook](https://www.facebook.com/groups/tfperuoficial/) y listo. Participa y conversa con los demás fanáticos.
