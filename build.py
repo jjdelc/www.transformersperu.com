@@ -31,6 +31,7 @@ def build_context(content_dir):
         'sales',
         'community',
         'pic_of_the_month',
+        'faq'
     ]
     ctx = {
         'pages': {}

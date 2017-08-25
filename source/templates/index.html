@@ -1,5 +1,12 @@
 {% extends "_base.html" %}
 
+{% block meta_head %}
+<meta name="google-site-verification" content="{{google_sites_verification}}" />
+<meta name="og:image" content=""/>
+<meta name="og:site_name" content=""/>
+<meta name="og:url" content=""/>
+{% endblock %}
+
 {% block body %}
 <header id="main-header">
 <figure class="main-logo" >
@@ -14,14 +21,14 @@
 
     <section class="section" id="reach-us">
         <div class="body">
-        <header>
-            <h1>¿Quiénes somos?</h1>
-        </header>
+        <h1>¿Quiénes somos?</h1>
         <div class="content">
             {{pages.home|safe}}
         </div>
     </div>
+        <div class="fan-page-iframe">
         <iframe src="https://www.facebook.com/v2.9/plugins/page.php?adapt_container_width=true&app_id=113869198637480&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2F0F7S7QWJ0Ac.js%3Fversion%3D42%23cb%3Df3a1511775939ac%26domain%3Ddevelopers.facebook.com%26origin%3Dhttps%253A%252F%252Fdevelopers.facebook.com%252Ff3006d611fb45da%26relation%3Dparent.parent&container_width=613&hide_cover=false&href=https%3A%2F%2Fwww.facebook.com%2Ftfperu%2F&locale=en_US&sdk=joey&show_facepile=true&small_header=true&width=500"></iframe>
+        </div>
         <div class="content">
         {{pages.contact|safe}}
         </div>
@@ -67,16 +74,24 @@
     </div>
     </section>
 
-    <section class="section" id="pic-of-the-month">
-        <div class="body">
-            <header>
-                <h1>Foto del més</h1>
-            </header>
-            <div class="content">
-            {{pages.pic_of_the_month|safe}}
-            </div>
+    <section class="section">
+    <div class="body">
+        <div class="content">
+            {{pages.faq|safe}}
         </div>
+    </div>
     </section>
+{##}
+{#    <section class="section" id="pic-of-the-month">#}
+{#        <div class="body">#}
+{#            <header>#}
+{#                <h1>Foto del més</h1>#}
+{#            </header>#}
+{#            <div class="content">#}
+{#            {{pages.pic_of_the_month|safe}}#}
+{#            </div>#}
+{#        </div>#}
+{#    </section>#}
 </div>
 <footer id="main-footer">
 <h1>Roll out!</h1>

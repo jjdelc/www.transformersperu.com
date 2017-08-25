@@ -8,7 +8,7 @@ a intercambiar, aprender y disfrutar de la franquicia.
 
 # ¿Qué hacen en los eventos?
 
-* Contamos con algunos de los personajes que llevamos a algunos eventos.
+* Contamos con disfraces de los personajes que llevamos a algunos eventos.
 * También instalamos una mesa de ventas con varias figuras y souvenirs para los asistentes.
 * Tenemos maquetas y dioramas con figuras de colección para exhibiciones.
-* Informamos, conversamos y aclaramos dudas que la gente tenga sobre cualquier tema relacionado a Transformers.
+* Informamos, conversamos y aclaramos dudas que el público tenga sobre cualquier tema relacionado a Transformers.
