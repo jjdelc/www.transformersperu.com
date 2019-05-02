@@ -1,0 +1,35 @@
+$bgcolor: #111;
+$facebookBlue: #3b5998;
+
+body {
+  margin: 0;
+  background: $bgcolor url(../media/tf-bg.png) repeat-x top left;
+  font-family: 'Exo', sans-serif;
+  font-weight: 200;
+  color: #EEE;
+}
+#main-header {
+  text-align: center;
+  padding-top: 1rem;
+  h1 {
+    margin-bottom: 1.5rem;
+  }
+}
+
+#main-footer {
+}
+
+.main-body {
+  margin: 0 auto;
+  max-width: 50rem;
+  padding: 1.5rem 1rem;
+  font-size: 1.3rem;
+  line-height: 1.8rem;
+
+
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
