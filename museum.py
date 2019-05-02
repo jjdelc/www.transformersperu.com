@@ -12,7 +12,7 @@ settings = yaml.load(open(SETTINGS_FILE).read())
 
 OUTPUT_DIR = os.path.join(CWD, 'built/museo/')
 TEMPLATE_DIR = os.path.join(CWD, 'source/templates/museum')
-CONTENT_DIR = os.path.join(CWD, 'source/content/museum')
+CONTENT_DIR = os.path.join(CWD, 'source/content/museo')
 
 try:
     os.mkdir(OUTPUT_DIR)
