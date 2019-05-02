@@ -1,36 +1,44 @@
 :name
-Poster película 86
+Miembros originales Autobots G1
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
+Esta vitrina muestra a los Autobots originales de la serie
+de dibujos animados de Transformers en la primera temporada.
+
+Se muestran las figuras de los años 1986 marca Hasbro/Takara.
 
 ##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
+La figura del centro Optimus Prime en su caja es la edición
+original de la figura. Durante los años han salido numerosas
+nuevas ediciones de la misma figura.
 
 ## Otros detalles
-Nótese el personaje en la parte superior derecha,
-son 3 figuras de Scourge Titan return simulando
-la secuencia de transformación.
-
+Nótese que hay duplicados de los personajes Ratchet
+y Ironhide, ambos tienen una figura en modo robot y la
+otra en modo vehículo. Al transformarse como robot, la parte
+del techo del camión se convierte a ser una estación
+de armas.
 
 :figures
 
-* Unicron Armada
-* Ultra Magnus Combiner Wars
-* Kup Generations
-* Wheelie Titan Returns
-* Arcee Generations Thrilling 30
-* Galvatron Titan Returns
-* Cyclonus Combiner wars
-* Scourge Titan Returns
-
+* Optimus Prime G1 - Primera Edición
+* Ratchet G1 x2
+* Ironhide G1 x2
+* Cliffjumper Amarillo
+* Mirage G1
+* Sideswipe G1
+* Wheeljack G1
+* Sunstreaker G1
+* Hound G1
+* Jazz G1
+* Gears G1
+* Huffer G1
+* Bumblebee rojo
+* Blaster G1
 
 :collectors
 
-Seríá bueno tener a Kup Titans Return ya que
-su modo robot es más parecido al diseño del 
-personaje en la película.
-
+Algo interesante que acá se muestran los minibots Cliffjumper
+y Bumblebee en sus ediciones de "error" con colores cambiados.
+Esas son figuras más valiosas y difíciles de conseguir.

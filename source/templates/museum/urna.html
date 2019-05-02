@@ -1,26 +1,44 @@
 {% extends "_base.html" %}
 
 {% block meta_head %}
-<meta name="og:image" content=""/>
-<meta name="og:site_name" content=""/>
+<meta name="og:image" content="./media/{{ number }}.jpg"/>
+<meta name="og:site_name" content="{{ name }}"/>
 {% endblock %}
 
 {% block body %}
 <header id="main-header">
-<figure class="main-logo" >
-<img src="./media/tfperu-logo-clear-600.png"/>
-</figure>
-<section>
-<h1>Museo Transformers Perú</h1>
-</section>
+<h1>{{ name }}</h1>
 </header>
-<div class="main-body">
-<figure>
-    <img src="../media/museum/{{ number }}.jpg" alt="{{ name }}"/>
-</figure>
-<h3>{{ name }}</h3>
 
+<div class="main-body">
+    <figure>
+        <img src="./media/{{ number }}.jpg" alt="{{ name }}"/>
+    </figure>
+
+    <section id="intro">
+        {{ intro|safe }}
+    </section>
+
+    {% if figures %}
+        <section>
+        <h1>Figuras utilizadas</h1>
+        {{ figures }}
+        </section>
+    {% endif%}
+
+    {% if collectors %}
+        <section>
+        <h1>Opiniones de los coleccionistas</h1>
+        {{ collectors }}
+        </section>
+    {% endif%}
+
+    <section>
+    <p><a class="go-back" href="./">Ver todas las urnas</a> </p>
+    </section>
 </div>
+
+
 <footer id="main-footer">
 </footer>
 <script>
@@ -28,9 +46,7 @@
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
   ga('create', '{{ analytics }}', 'auto');
   ga('send', 'pageview');
-
 </script>
 {% endblock %}

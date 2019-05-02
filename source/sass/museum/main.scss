@@ -1,5 +1,4 @@
-$bgcolor: #111;
-$facebookBlue: #3b5998;
+$bgcolor: #222;
 
 body {
   margin: 0;
@@ -9,10 +8,7 @@ body {
   color: #EEE;
 }
 #main-header {
-  text-align: center;
-  padding-top: 1rem;
   h1 {
-    margin-bottom: 1.5rem;
   }
 }
 
@@ -22,14 +18,39 @@ body {
 .main-body {
   margin: 0 auto;
   max-width: 50rem;
-  padding: 1.5rem 1rem;
   font-size: 1.3rem;
   line-height: 1.8rem;
+  a {
+    color: #EEEEEE;
+  }
 
+  figure {
+    padding: 0;
+    margin: 0;
+    border: 2px solid white;
+  }
 
+  section {
+  padding: 1rem;
+    h1, h2, h3 {
+      border-bottom: 1px solid #EEEEEE;
+    }
+  }
 
   img {
     max-width: 100%;
     height: auto;
+    display: block;
   }
+}
+
+
+#intro p {
+  margin-top: 0;
+}
+
+.go-back {
+  display: block;
+  color: #EEEEEE;
+  text-align: right;
 }

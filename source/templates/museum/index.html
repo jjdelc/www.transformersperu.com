@@ -10,28 +10,31 @@
 <figure class="main-logo" >
 </figure>
 <section>
-<h1>Poster película 86</h1>
+<h1>Museo Transformers Perú</h1>
 </section>
 </header>
 <div class="main-body">
-<img src="./media/urna-01.jpg"/>
+<figure>
+<img src="./media/museo-main.jpg"/>
+</figure>
 
 <section>
-    <p>Esta urna representa el poster de la película de Transformers de 1986.</p>
-    <h2>Dato resaltante</h2>
-    <p>Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-    Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-    permiten recrear las poses de las figuras.</p>
-    <h2>Otros detalles</h2>
-    <p>Nótese el personaje en la parte superior derecha</p>
+    <p>El Museo Transformers Perú, pone en exhibición la colección personal
+    del fundador del Club de Fans oficial "<a href="http://www.transformersperu.com/">Transformers Perú</a>".</p>
+    <p>En esta exhibición se aprecia una fracción de su colección que busca mostrar
+    las figuras mas resaltantes a lo largo de la historia de Transformers en los últimos
+    35 años.</p>
+    <p>Comenzando por las figuras originales G1, hasta las últmas líneas disponibles
+    en tiendas locales pasando por otras lineas populares como Beast Wars, Cybertron.</p>
 </section>
 <section>
 <h1>Urnas</h1>
-    <ul>
+    <p>Conoce más sobre cada una de las urnas:</p>
+    <ol>
         {% for urn in urn_names %}
             <li><a href="./{{ urn.filename }}">{{ urn.name }}</a> </li>
         {% endfor %}
-    </ul>
+    </ol>
 </section>
 
 </div>
