@@ -1,0 +1,51 @@
+{% extends "_base.html" %}
+
+{% block meta_head %}
+<meta name="og:image" content=""/>
+<meta name="og:site_name" content=""/>
+{% endblock %}
+
+{% block body %}
+<header id="main-header">
+<figure class="main-logo" >
+</figure>
+<section>
+<h1>Poster película 86</h1>
+</section>
+</header>
+<div class="main-body">
+<img src="./media/urna-01.jpg"/>
+
+<section>
+    <p>Esta urna representa el poster de la película de Transformers de 1986.</p>
+    <h2>Dato resaltante</h2>
+    <p>Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
+    Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
+    permiten recrear las poses de las figuras.</p>
+    <h2>Otros detalles</h2>
+    <p>Nótese el personaje en la parte superior derecha</p>
+</section>
+<section>
+<h1>Urnas</h1>
+    <ul>
+        {% for urn in urn_names %}
+            <li><a href="./{{ urn.filename }}">{{ urn.name }}</a> </li>
+        {% endfor %}
+    </ul>
+</section>
+
+</div>
+<footer id="main-footer">
+</footer>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '{{ analytics }}', 'auto');
+  ga('send', 'pageview');
+
+</script>
+{% endblock %}
+

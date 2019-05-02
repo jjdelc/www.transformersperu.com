@@ -1,0 +1,36 @@
+{% extends "_base.html" %}
+
+{% block meta_head %}
+<meta name="og:image" content=""/>
+<meta name="og:site_name" content=""/>
+{% endblock %}
+
+{% block body %}
+<header id="main-header">
+<figure class="main-logo" >
+<img src="./media/tfperu-logo-clear-600.png"/>
+</figure>
+<section>
+<h1>Museo Transformers Perú</h1>
+</section>
+</header>
+<div class="main-body">
+<figure>
+    <img src="../media/museum/{{ number }}.jpg" alt="{{ name }}"/>
+</figure>
+<h3>{{ name }}</h3>
+
+</div>
+<footer id="main-footer">
+</footer>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '{{ analytics }}', 'auto');
+  ga('send', 'pageview');
+
+</script>
+{% endblock %}
