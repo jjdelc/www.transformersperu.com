@@ -10,7 +10,7 @@ CWD = os.getcwd()
 SETTINGS_FILE = os.environ['settings']
 settings = yaml.load(open(SETTINGS_FILE).read())
 
-OUTPUT_DIR = os.path.join(CWD, 'built/museum/')
+OUTPUT_DIR = os.path.join(CWD, 'built/museo/')
 TEMPLATE_DIR = os.path.join(CWD, 'source/templates/museum')
 CONTENT_DIR = os.path.join(CWD, 'source/content/museum')
 
