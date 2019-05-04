@@ -3,12 +3,9 @@ Elite Guard - Botcon
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
+Se muestran algunas figuras que sólamente era posible obtener en las convenciones
+BotCon (Antigua convención de Transformers oficial de Hasbro).
 
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
-
-## Otros detalles
-Nótese el personaje en la parte superior derecha.
+Además de otras figuras exclusivas que sólo podían conseguirse en condiciones
+muy especiales, por ejemplo la figura de Evac que sólo se puede comprar en 
+la tienda de Universal Studios.

@@ -3,12 +3,13 @@ Merchandising, revistas, libros y catálogos
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
+Se muestra una parte de la producción escrita de Transformers, los populares
+comics G1 de los 80s, las ediciones americanas e inglesas.
 
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
+También los comics más actuales de IDW con las más recientes historias
+de Transformers contadas.
 
-## Otros detalles
-Nótese el personaje en la parte superior derecha.
+En el fondo varios de los distintos libros de referencia de Transformers, 
+bien sea referencia de coleccionista, de canon de la historia o de arte.
+
+Además algunas de las novelas escritas (sin dibujos) de Transformers.
