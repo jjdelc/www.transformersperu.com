@@ -3,12 +3,11 @@ Película - Revenge of the Fallen - Devastator
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
+La famosa escena cerca del final de la película "Venganza de los caidos" que
+sucede en Egipto donde los Autobots se enfrentan a Devastator.
 
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
+Acá se muestra a Optimus prime de la película "Lado Oscuro de la luna" que tiene
+el space bridge como armadura y alas, para poder representar a lo que en realidad
+sucede en la película cuando Optimus se combina con Jetfire.
 
-## Otros detalles
-Nótese el personaje en la parte superior derecha.
+Este juguete se llama Jetwing Optimus Prime.

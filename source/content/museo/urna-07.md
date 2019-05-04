@@ -3,12 +3,12 @@ Decépticons - Tercera y cuarta temporada
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
+Estos juguetes representan a los decépticons que formaron parte del dibujo animado
+en las temporadas 3 y 4.
 
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
+Entre las figuras mas memorables están Scorponock G1 en modo base y Trypticon G1.
 
-## Otros detalles
-Nótese el personaje en la parte superior derecha.
+:collectors
+La figura de Galvatron que sale ahí es la japonesa Takara por tener el color morado al
+igual que el personaje en la serie y película, a diferencia de la versión Hasbro
+que era de color gris y no tenía colores en relación con el dibujo.

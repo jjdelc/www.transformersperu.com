@@ -11,4 +11,5 @@ Sólo en los últimos años han salido al mercado nuevas figuras de los personaj
 permiten recrear las poses de las figuras.
 
 ## Otros detalles
-Nótese el personaje en la parte superior derecha.
+Nótese el personaje en la parte superior derecha que se muestra colgado
+repetido pero en secuencia de transformación.

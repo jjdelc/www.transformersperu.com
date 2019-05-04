@@ -3,12 +3,19 @@ Transformers Prime
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
+Muestra una escena de batalla con las figura de la serie de televisión Transformers
+Prime.
 
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
+Los robots negros son los Vehicons que eran los soldados decépticons y existían
+en tropas muy grandes, por eso esta vitrina muestra varias de estas figuras
+en distintas poses.
 
-## Otros detalles
-Nótese el personaje en la parte superior derecha.
+# Otros detalles
+
+Esta línea de juguetes fue popular por lograr los modos robot muy similares
+a aquellos de la animación 3D de la televisión.
+
+:collectors
+
+Esa figura Azul, de Breakdown fue una versión que sólo salió en Japón y es muy
+buscada hoy en día.

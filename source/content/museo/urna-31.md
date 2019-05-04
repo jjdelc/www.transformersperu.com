@@ -3,12 +3,9 @@ Película Bumblebee
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
+La reciente película de Bumblebee trajo nuevamente al personaje al frente
+de las tiendas y con él muchos productos con su nombre y el característico
+color amarillo.
 
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
-
-## Otros detalles
-Nótese el personaje en la parte superior derecha.
+Acá se muestran varias figuras de otras líneas para recordar las recientes
+versiones de Bumblebee en el universo de las películas.

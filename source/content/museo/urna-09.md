@@ -3,13 +3,14 @@ Transformers Generación 2 - G2
 
 
 :intro
+Algunas figuras que fueron llamadas Generación 2, que tuvo muchas figuras
+de la generación 1 con nuevos colores, por ejemplo el Devastator en color amarillo
+pero tambíen nuevos moldes.
 
-Esta urna representa el poster de la película de Transformers de 1986.
+Se caracterizó por tener colores neon y alto contraste, mucho uso de naranja,
+morado, rosado, amarillo en las figuras.
 
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
-
-## Otros detalles
-Nótese el personaje en la parte superior derecha.
+:collectors
+Al fondo se puede ver en su caja a una de las figuras más famosas por sufrir
+del síndrome GPS, Electro G1, que causa que las figuras antíguas de color dorado 
+se quiebren muy fácilmente lo cual hace muy extraño poder verlos en una sola pieza!

@@ -3,12 +3,7 @@ Lynsa - Transformers hechos en el Perú
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
+Esta vitrina muestra una parte importante de la historia de Transformers.
+Los transformers hechos en Perú por la marca Lynsa.
 
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
-
-## Otros detalles
-Nótese el personaje en la parte superior derecha.
+Hoy en día son muy costosos y buscados en todo el mundo por grandes coleccionistas.

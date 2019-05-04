@@ -3,12 +3,10 @@ Película - Era de la extinción
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
+Se muestran algunos personajes de la película "Era de la extinción" con 
+la famosa toma de Optimus Prime montando a Grimlock.
 
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
+:collectors
 
-## Otros detalles
-Nótese el personaje en la parte superior derecha.
+Ojo que la figura de Optimus usada acá es el molde de la película 
+"El último caballero" pero por tema de tamaño se sienta mejor en este Grimlock.

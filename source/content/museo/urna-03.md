@@ -3,12 +3,20 @@ Gestalts G1
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
-
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
+Muchas de las figuras recordadas por los fans, los Gestalts o combiners G1.
+Estas figuras eran formadas por 5 robots más pequeños y necesitaban accessorios
+adicionales para formar al robot final. Usualmente un casco para la cabeza y
+pies y manos adicionales.
 
 ## Otros detalles
-Nótese el personaje en la parte superior derecha.
+
+Junto con ellos se muestra a Omega Supreme, un guardián de los Autobots que 
+se convierte en modo base. Famoso por poder caminar en modo robot y en modo
+base su cabeza se convierte en un tanque que rueda por su pista.
+
+:collectors
+Los Dinobots G1 que se muestran ahí son los originales que ahora son muy difíciles
+de conseguir dado que los moldes para imprimir las partes originales fueron 
+destruídos y nunca se volvieron a hacer.
+
+Incluso las copias piratas son difíciles de conseguir hoy en día.

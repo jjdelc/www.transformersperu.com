@@ -1,14 +1,10 @@
 :name
-Fall for Cybertron y War for Cybertron
+Fall of Cybertron y War for Cybertron
 
 :intro
+Se muestran figuras de 2 lineas consecutivas, "War For Cybertron" y "Fall of Cybertron".
+Fueron videojuegos de los años 2010 y 2012.
 
-Esta urna representa el poster de la película de Transformers de 1986.
+Las figuras representan a los personajes conocidos en modos cybertronianos
+antes de ir a la tierra.
 
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
-
-## Otros detalles
-Nótese el personaje en la parte superior derecha.

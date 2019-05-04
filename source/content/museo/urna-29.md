@@ -3,12 +3,8 @@ Transformers 2007 - Precuelas y comics
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
+Se muestran figuras variads que forman parte de los comics de las precuelas
+de las películas mostrando escenas que forman parte de la trama anterior.
 
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
-
-## Otros detalles
-Nótese el personaje en la parte superior derecha.
+Esta línea trajo muchísimas figuras con muy buenas transformaciones de personajes
+que no fueron muy conocidos.

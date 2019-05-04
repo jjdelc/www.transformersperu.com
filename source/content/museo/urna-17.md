@@ -3,12 +3,20 @@ Phase Sixers - IDW
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
+Los Phase sixers se llaman a los transformers que pueden transformarse en 6 modos.
+Acá se muestran los que fueron las figuras Leader class que representaban esos
+decépticons:
+
+ * Sky Shadow
+ * Overlord
+ * Six Shot
+ 
+Tienen la apariencia más moderna que tuvieron en sus apariciones en los comics de
+la editora IDW.
 
 ##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
+Adicional a los phase sixers se muestran otros decépticons de tamaño leader, por
+ejemplo los "Seekers" formados por Starscream, Thundercracker y Skywarp (Jets
+rojo, azul y negro respectivamente).
 
-## Otros detalles
-Nótese el personaje en la parte superior derecha.
+En la parte superior Megatron de la línea Combiner Wars.

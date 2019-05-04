@@ -3,12 +3,12 @@ Titan Returns
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
+La figura mas grande del año 2016 fue Fortress Maximus, en tamaño titan.
+Un excelente homenaje a la figura Fortress Maximus G1.
 
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
+A sus pies se aprecia varias figuras Autobots de las líneas de años cercanos,
+combiner wars y titans return.
 
-## Otros detalles
-Nótese el personaje en la parte superior derecha.
+## Dato restaltante
+Al lado derecho está Superion, formado por los Aerialbots. Esta fue la primera
+figura completa de la línea Combiner Wars el año 2015.

@@ -3,12 +3,11 @@ Transformers Prime - Beast Hunters
 
 :intro
 
-Esta urna representa el poster de la película de Transformers de 1986.
+Representa la batalla de la película "Beast Hunters" que fue el cierre de la
+serie Transformers Prime.
 
-##Dato resaltante
-Si bien las figuras pada poder recrear esta imagen existieron por mucho tiempo,
-Sólo en los últimos años han salido al mercado nuevas figuras de los personajes que
-permiten recrear las poses de las figuras.
+En esta escena se muestra a Optimus Prime enfrentando a PRedaking y varias
+de sus bestias.
 
-## Otros detalles
-Nótese el personaje en la parte superior derecha.
+Esta línea contó con varios juguetes que se transformaban en distintas béstias
+voladoras con patas.
