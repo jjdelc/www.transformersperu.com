@@ -1,5 +1,5 @@
 :name
-Miembros originales Decépticons G1
+Los Transformers - Decépticons
 
 :intro
 

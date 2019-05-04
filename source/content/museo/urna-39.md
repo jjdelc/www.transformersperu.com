@@ -1,5 +1,5 @@
 :name
-Poster película 86
+Guerra de Bestias II - Batalla Royal
 
 :intro
 

@@ -1,5 +1,5 @@
 :name
-Poster película 86
+Phase Sixers - IDW
 
 :intro
 

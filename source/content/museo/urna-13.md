@@ -1,5 +1,5 @@
 :name
-Poster película 86
+Merchandising, revistas, libros y catálogos
 
 :intro
 

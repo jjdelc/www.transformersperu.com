@@ -1,5 +1,5 @@
 :name
-Poster película 86
+Decépticons - Tercera y cuarta temporada
 
 :intro
 

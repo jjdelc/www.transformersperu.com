@@ -1,5 +1,5 @@
 :name
-Poster película 86
+Nueva Generación - Predacons y decépticons 
 
 :intro
 

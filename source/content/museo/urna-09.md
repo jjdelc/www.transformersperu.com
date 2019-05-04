@@ -1,5 +1,6 @@
 :name
-Poster película 86
+Transformers Generación 2 - G2
+
 
 :intro
 

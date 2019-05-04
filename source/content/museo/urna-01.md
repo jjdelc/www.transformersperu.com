@@ -1,5 +1,5 @@
 :name
-Miembros originales Autobots G1
+Los Transformers - Autobots
 
 :intro
 

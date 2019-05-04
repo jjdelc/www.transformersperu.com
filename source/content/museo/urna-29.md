@@ -1,5 +1,5 @@
 :name
-Poster película 86
+Transformers 2007 - Precuelas y comics
 
 :intro
 

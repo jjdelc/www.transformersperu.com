@@ -1,5 +1,5 @@
 :name
-Poster película 86
+Transformers - La Película 1986
 
 :intro
 

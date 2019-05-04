@@ -1,5 +1,5 @@
 :name
-Poster película 86
+Líderes Autobot Japoneses
 
 :intro
 

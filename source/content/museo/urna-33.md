@@ -1,5 +1,5 @@
 :name
-Poster película 86
+Película - Era de la extinción
 
 :intro
 

@@ -1,5 +1,5 @@
 :name
-Poster película 86
+Fall for Cybertron y War for Cybertron
 
 :intro
 

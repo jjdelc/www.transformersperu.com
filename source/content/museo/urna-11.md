@@ -1,5 +1,5 @@
 :name
-Poster película 86
+Lynsa - Transformers hechos en el Perú
 
 :intro
 
